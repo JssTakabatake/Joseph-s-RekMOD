@@ -1338,6 +1338,7 @@
 		"neutralHello": "Yes sir?",
 		"hateHello": "What do you want now?",
 		"tradeRequest": "The Great Jin offers you this deal. Think about it.",
+		"favoredReligion": "Taoism",
 		"outerColor": [254,204,32],
 		"innerColor": [0,55,106],
 		"uniqueName": "Eight Banners",
@@ -1407,6 +1408,7 @@
 		"neutralHello": "Hello there!",
 		"hateHello": "What now? Can't you see I am busy?",
 		"tradeRequest": "We are offering you the spiciest foods in the world. I hope your people enjoy eating those foods.",
+		"favoredReligion": "Christianity",
 		"outerColor": [112, 172, 122],
 		"innerColor": [112,13,31],
 		"uniqueName": "Encomienda System",
@@ -1429,6 +1431,7 @@
 		"neutralHello": "Hello.",
 		"hateHello": "So what now?",
 		"tradeRequest": "I am not always this generous, but we hope you take this rare opportunity we give you.",
+		"favoredReligion": "Tengriism",
 		"outerColor": [81,0,9],
 		"innerColor": [255,120,0],
 		"uniqueName": "Mongol Terror",
@@ -1454,6 +1457,7 @@
 		"neutralHello": "Greetings!",
 		"hateHello": "What, you heretic?!",
 		"tradeRequest": "We have sent to you a caravan to your country, please let them in.",
+		"favoredReligion": "Islam",
 		"outerColor": [237,197,82],
 		"innerColor": [186,60,3],
 		"uniqueName": "Glory of Al-Andalus",
@@ -1476,6 +1480,7 @@
 		"neutralHello": "Greetings!",
 		"hateHello": "What are you doing here?",
 		"tradeRequest": "I came with all hope, but haven't reached an agreement.",
+		"favoredReligion": "Islam",
 		"outerColor": [123,3,0],
 		"innerColor": [40,179,79],
 		"uniqueName": "Gateway to Africa",
@@ -1524,6 +1529,7 @@
 		"neutralHello": "Once again, greetings.",
 		"hateHello": "What do you want?",
 		"tradeRequest": "I believe I have something that may be of some importance to you.",
+		"favoredReligion": "Christianity",
 		"outerColor": [214,114,0],
 		"innerColor": [255,255,255],
 		"uniqueName": "Dutch East India Company",
@@ -1549,6 +1555,7 @@
 		"neutralHello": "Greetings.",
 		"hateHello": "Don't waste my time.",
 		"tradeRequest": "I believe we have something in common, we are great conquerors, so accept this deal for the greater good!",
+		"favoredReligion": "Christianity",
 		"outerColor": [198,0,0],
 		"innerColor": [255,159,38],
 		"uniqueName": "Castle Builders",
@@ -1570,7 +1577,8 @@
 		"introduction": "Greetings, fellow leader! I am Harald III of Norway, also known as Harald Hardråde.",
 		"neutralHello": "Greetings, fellow Viking!",
 		"hateHello": "Yeah?",
-		"tradeRequest": "I swear, if you do not accept this, I am gonna be furious.",
+		"tradeRequest": "Let's trade resources like a Viking would!",
+		"favoredReligion": "Christianity",
 		"outerColor": [8,30,87],
 		"innerColor": [238,180,0],
 		"uniqueName": "Nordic Bounty",
@@ -1637,6 +1645,7 @@
 		"neutralHello": "Greetings!",
 		"hateHello": "What do you want?",
 		"tradeRequest": "Let us do business! Would you be interested?",
+		"favoredReligion": "Islam",
 		"outerColor": [245,248,185],
 		"innerColor": [18,84,30],
 		"uniqueName": "Barbary Corsairs",
@@ -1683,6 +1692,7 @@
 		"neutralHello": "Good day to you!",
 		"hateHello": "Ahh... you...",
 		"tradeRequest": "In my endless magnanimity, I am making you this offer. You agree, of course?",
+		"favoredReligion": "Zoroastrianism",
 		"outerColor": [153,5,3],
 		"innerColor": [244,232,54],
 		"uniqueName": "Achaemenid Legacy",
@@ -1734,6 +1744,7 @@
 		"neutralHello": "I salute you.",
 		"hateHello": "What are you looking for here?",
 		"tradeRequest": "How do you like my offer?",
+		"favoredReligion": "Christianity",
 		"outerColor": [241,3,0],
 		"innerColor": [80,11,14],
 		"uniqueName": "Solidarity",
@@ -1784,6 +1795,7 @@
 		"neutralHello": "Good morning.",
 		"hateHello": "Why did you come?",
 		"tradeRequest": "Will you consider this offer?",
+		"favoredReligion": "Christianity",
 		"outerColor": [206,206,205],
 		"innerColor": [8,25,115],
 		"uniqueName": "Mare Clausum",
@@ -1832,6 +1844,7 @@
 		"neutralHello": "Salutations to you!",
 		"hateHello": "...",
 		"tradeRequest": "Let's trade our resources.",
+		"favoredReligion": "Christianity",
 		"outerColor": [2,51,69],
 		"innerColor": [197,196,72],
 		"uniqueName": "Nihil Sine Deo",
@@ -1854,6 +1867,7 @@
 		"neutralHello": "Hello!",
 		"hateHello": "What do you need?!",
 		"tradeRequest": "How would you like it if I propose this kind of exchange?",
+		"favoredReligion": "Christianity",
 		"outerColor": [ 236, 178, 0],
 		"innerColor": [0,0,0],
 		"uniqueName": "Siberian Riches",
@@ -1905,6 +1919,7 @@
 		"neutralHello": "Greetings.",
 		"hateHello": "What, you punk?",
 		"tradeRequest": "Can we reach an agreement?",
+		"favoredReligion": "Christianity",
 		"outerColor": [5,60,77],
 		"innerColor": [201,214,217],
 		"uniqueName": "Flower of Scotland",
@@ -1950,6 +1965,7 @@
 		"neutralHello": "Welcome.",
 		"hateHello": "Greetings.",
 		"tradeRequest": "Greetings. I believe this is a fair proposal for both parties. What do you think?",
+	        "favoredReligion": "Buddhism",
 		"outerColor": [228,208,43],
 		"innerColor": [193,21,17],
 		"uniqueName": "Father Governs Children",
@@ -1975,6 +1991,7 @@
 		"neutralHello": "Greetings.",
 		"hateHello": "Oh, it's you.",
 		"tradeRequest": "Can I interest you in this deal?",
+		"favoredReligion": "Islam",
 		"outerColor": [214,145,19],
 		"innerColor": [90,0,10],
 		"uniqueName": "River Warlord",
@@ -2022,6 +2039,7 @@
 		"neutralHello": "Greetings.",
 		"hateHello": "Well?",
 		"tradeRequest": "I hope this deal will receive your blessing.",
+		"favoredReligion": "Christianity",
 		"outerColor": [102,0,0],
 		"innerColor": [255,102,102],
 		"uniqueName": "Seven Cities of Gold",
@@ -2045,7 +2063,7 @@
 		"introduction": "Hail to you, stranger! I am Gilgamesh, the god-king of Sumeria.",
 		"neutralHello": "Hail.",
 		"hateHello": "Leave this palace. Now!",
-		"tradeRequest": "The Sumerian empire offers you this deal. Anything else?",
+		"tradeRequest": "The Sumerian empire offers you this deal. What else?",
 		"outerColor": [15,70,109],
 		"innerColor": [229,118,95],
 		"uniqueName": "Cradle of Civilization",
@@ -2068,6 +2086,7 @@
 		"neutralHello": "Oh, welcome!",
 		"hateHello": "Oh, it is you.",
 		"tradeRequest": "My friend, it is my belief that this settlement can benefit both our peoples.",
+		"favoredReligion": "Christianity",
 		"outerColor": [39,59,146],
 		"innerColor": [250,250,27],
 		"uniqueName": "Nobel Prize",
@@ -2132,7 +2151,7 @@
 		"startIntroPart2": " ",
 		"declaringWar": "Unite the islands!",
 		"attacked": "I hope you know how to sail!",
-		"defeated": "Bravo, you have conquered the Tongan Empire. I am going to go in exile to an island, and I won't tell it to you!",
+		"defeated": "Bravo, you have conquered the Tongan Empire. I am going to go in exile to an island, and hope you treat our people well.",
 		"introduction": "Oh, would you look at that, another explorer! What is your empire's history?",
 		"neutralHello": "Mālō e lelei!",
 		"hateHello": "Yeah... No.",
@@ -2158,7 +2177,7 @@
 		"introduction": "I salute you, stranger! As the father of the Turks, I say you are always welcome here.",
 		"neutralHello": "Greetings!",
 		"hateHello": "What is it?",
-		"tradeRequest": "I feel i should trade some stuff with you, Anything else?",
+		"tradeRequest": "I feel I should trade some stuff with you, Anything else?",
 		"outerColor": [255,227,151],
 		"innerColor": [191,25,39],
 		"uniqueName": "Westernization",
@@ -2177,13 +2196,14 @@
 
 		"startIntroPart1": " ",
 		"startIntroPart2": " ",
-		"declaringWar": "Prepare for war!",
-		"attacked": "You shall regret this!",
-		"defeated": "The victory is yours.",
-		"introduction": "Welcome, mighty leader.",
-		"neutralHello": "Greetings.",
-		"hateHello": "What do you want?",
-		"tradeRequest": "Better hurry, I may change my mind.",
+		"declaringWar": "Your existence is an insult to this world, you shall be destroyed!",
+		"attacked": "You fool! We will not fall to your hands easily!",
+		"defeated": "Am i really surprised? Enjoy your victory, for now.",
+		"introduction": "Welcome to Ukraine! I am Yaroslav I, the Grand Prince of Kiev.",
+		"neutralHello": "Once again, welcome!",
+		"hateHello": "*sigh*",
+		"tradeRequest": "We propose a deal that might interest both parties.",
+		"favoredReligion": "Christianity",
 		"outerColor": [21,34,78],
 		"innerColor": [255,233,142],
 		"uniqueName": "The Way of Chumaks",
@@ -2206,6 +2226,7 @@
 		"neutralHello": "Greetings.",
 		"hateHello": "You! What do you want?",
 		"tradeRequest": "This offer won't be valid for a lot of time, think about it.",
+		"favoredReligion": "Christianity",
 		"outerColor": [105,34,172],
 		"innerColor": [255,254,231],
 		"uniqueName": "Serenissima",
@@ -2244,18 +2265,19 @@
 
 		"startIntroPart1": " ",
 		"startIntroPart2": " ",
-		"declaringWar": "Prepare for war!",
-		"attacked": "You shall regret this!",
-		"defeated": "The victory is yours.",
-		"introduction": "Welcome, mighty leader.",
-		"neutralHello": "Greetings.",
-		"hateHello": "What do you want?",
-		"tradeRequest": "Better hurry, I may change my mind.",
+		"declaringWar": "We can not tolerate your existence any longer, prepare for war!",
+		"attacked": "We, Welshmen, shall resist your attacks!",
+		"defeated": "The Welsh people bow down to you... For now.",
+		"introduction": "Owain Glyndwr, leader of the Welsh people. What brings you here today?",
+		"neutralHello": "Hello.",
+		"hateHello": "?",
+		"tradeRequest": "Is this deal fair to you, friend?",
+		"favoredReligion": "Christianity",
 		"outerColor": [10,52,45],
 		"innerColor": [189,90,80],
 		"uniqueName": "Hafod a Hendref",
 		"uniques": ["[+1 Food, +1 Gold] from every [Sheep]","[+15]% combat bonus for [Non-City] units fighting in [Hill]"],
-		"cities": ["Cardiff","Swansea","Casnewydd","Wrecsam","Y Barri","Cwmbran","Pen-y-bont ar Ogwr","Lianelli","Penrhyndeudraeth","Caerffili","Ynysybwl","Pont-y-pwl","Cefn-Mawr","Coed Duon"]
+		"cities": ["Cardiff","Aberystwyth","Swansea","Casnewydd","Wrecsam","Y Barri","Cwmbran","Pen-y-bont ar Ogwr","Lianelli","Penrhyndeudraeth","Caerffili","Ynysybwl","Pont-y-pwl","Cefn-Mawr","Coed Duon"]
 	},
 					{
 		"name": "Zimbabwe",
@@ -2306,443 +2328,761 @@
 	},	        	
 	//City-States
 	{
-		"name": "Djibouti",
-		"adjective": ["Djibouti"],
-		"cityStateType": "Cultured",
-		
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "You fiend! History shall remember this!",
-		"outerColor": [0, 0, 0],
-		"innerColor": [185,132,66],
-		"uniques": ["Gain a free [~CS] [in all cities]"],
-		"cities": ["Djibouti"]
-	},
-	{
-		"name": "Fiji",
-		"adjective": ["Fijian"],
-		"cityStateType": "Cultured",
-		
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "And so the flower of Fiji falls to barbaric hands...",
-		"outerColor": [0, 0, 0],
-		"innerColor": [62,197,252],
-			"uniques": ["Gain a free [~CS] [in all cities]"],
-		"cities": ["Suva"]
-	},
-	{
-		"name": "Kenya",
-		"adjective": ["Kenyan"],
-		"cityStateType": "Maritime",
-		"startBias": ["Coast"],
-
-		"declaringWar": "Our tribe must prosper... and you must fall.",
-		"attacked": "We always like a good challenge. I'm lookingforward to see your pathetic armies being ginded to dust!",
-		"defeated": "Very well, then... we shall serve you forevermore.",
-		"outerColor": [0, 0, 0],
-		"innerColor": [211, 220, 103],
-		"uniques": ["Gain a free [~CS] [in all cities]"],
-		"cities": ["Mombasa"]
-	},
-	{
-		"name": "Liechtenstein",
-		"adjective": ["Vaduz"],
-		"cityStateType": "Mercantile",
-		"startBias": ["Coast"],
-
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "They will write songs of this.... pray that they shall be in your favor.",
-		"outerColor": [0, 0, 0],
-		"innerColor": [194,97,255],
-		"uniques": ["Gain a free [~CS] [in all cities]"],
-		"cities": ["Vaduz"]
-	},
-	{
-		"name": "Albania",
-		"adjective": ["Albanian"],
-		"cityStateType": "Militaristic",
-
-		"declaringWar": "My ambitions are too big to be contained... And it is a shame that I have to use them to destroy you.",
-		"attacked": "Go ahead then! You will die before setting one foot in our country!",
-		"defeated": "Pathetic... We can prosper as much as we want, yet we can ultimately fall, no matter what.",
-		"outerColor": [0, 0, 0],
-		"innerColor": [211,180,113],
-		"uniques": ["Gain a free [~CS] [in all cities]"],
-		"cities": ["Tirana"]
-	},
-	{
-		"name": "Azerbaijan",
+		"name": "Baku",
 		"adjective": ["Azerbaijani"],
-		"cityStateType": "Mercantile",
-		"startBias": ["Coast"],
+		"cityStateType": "Cultured",
 
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start.",
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
 		"outerColor": [0, 0, 0],
-		"innerColor": [255,97,255],
-		"uniques": ["Gain a free [~CS] [in all cities]"],
+		"innerColor": [128, 179, 255],
+		"uniques": [],
 		"cities": ["Baku"]
 	},
 	{
-		"name": "Thailand",
-		"adjective": ["Thai"],
+	  "name": "Chaco Canyon",
+	  "adjective": ["Chacoan"],
+	  "cityStateType": "Cultured",
+
+	  "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+	  "attacked": "Very well, we will kick you back to the ancient era!",
+	  "defeated": "This isn't how it is supposed to be!",
+	  "outerColor": [0, 0, 0],
+	  "innerColor": [255, 217, 143],
+	  "uniques": [],
+	  "cities": ["Chaco Canyon"]
+	},
+	{
+	  "name": "Djibouti",
+	  "adjective": ["Djiboutian"],
+	  "cityStateType": "Cultured",
+
+	  "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+	  "attacked": "Very well, we will kick you back to the ancient era!",
+	  "defeated": "This isn't how it is supposed to be!",
+	  "outerColor": [0, 0, 0],
+	  "innerColor": [230, 166, 82],
+	  "uniques": [],
+	  "cities": ["Djibouti"]
+	},
+	{
+	  "name": "Kuala Lumpur",
+	  "adjective": ["Kuala Lumpur"],
+	  "cityStateType": "Cultured",
+
+	  "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+	  "attacked": "Very well, we will kick you back to the ancient era!",
+	  "defeated": "This isn't how it is supposed to be!",
+	  "outerColor": [0, 0, 0],
+	  "innerColor": [255, 255, 43],
+	  "uniques": [],
+	  "cities": ["Kuala Lumpur"]
+	},
+	{
+		"name": "Kuwait City",
+		"adjective": ["Kuwati"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [230,230,230],
+		"uniques": [],
+		"cities": ["Kuwait City"]
+	},
+	{
+	  "name": "Kyzyl",
+	  "adjective": ["Kyzyl"],
+	  "cityStateType": "Cultured",
+
+	  "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+	  "attacked": "Very well, we will kick you back to the ancient era!",
+	  "defeated": "This isn't how it is supposed to be!",
+	  "outerColor": [0, 0, 0],
+	  "innerColor": [0, 163, 181],
+	  "uniques": [],
+	  "cities": ["Kyzyl"]
+	},
+	{
+	  "name": "Ljubljana",
+	  "adjective": ["Slovenian"],
+	  "cityStateType": "Cultured",
+
+	  "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+	  "attacked": "Very well, we will kick you back to the ancient era!",
+	  "defeated": "This isn't how it is supposed to be!",
+	  "outerColor": [0, 0, 0],
+	  "innerColor": [18,204,245],
+	  "uniques": [],
+	  "cities": ["Ljubljana"]
+	},
+	{
+	  "name": "Luxembourg",
+	  "adjective": ["Luxembourg"],
+	  "cityStateType": "Cultured",
+
+	  "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+	  "attacked": "Very well, we will kick you back to the ancient era!",
+	  "defeated": "This isn't how it is supposed to be!",
+	  "outerColor": [0, 0, 0],
+	  "innerColor": [54, 102, 255],
+	  "uniques": [],
+	  "cities": ["Luxembourg"]
+	},
+	{
+	  "name": "Monaco",
+	  "adjective": ["Monaco"],
+	  "cityStateType": "Cultured",
+
+	  "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+	  "attacked": "Very well, we will kick you back to the ancient era!",
+	  "defeated": "This isn't how it is supposed to be!",
+	  "outerColor": [0, 0, 0],
+	  "innerColor": [196, 87, 255],
+	  "uniques": [],
+	  "cities": ["Monaco"]
+	},
+	{
+	  "name": "Montevideo",
+	  "adjective": ["Montevidean"],
+	  "cityStateType": "Cultured",
+
+	  "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+	  "attacked": "Very well, we will kick you back to the ancient era!",
+	  "defeated": "This isn't how it is supposed to be!",
+	  "outerColor": [0, 0, 0],
+	  "innerColor": [125, 224, 0],
+	  "uniques": [],
+	  "cities": ["Montevideo"]
+	},
+	{
+	  "name": "Nicosia",
+	  "adjective": ["Nicosia"],
+	  "cityStateType": "Cultured",
+
+	  "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+	  "attacked": "Very well, we will kick you back to the ancient era!",
+	  "defeated": "This isn't how it is supposed to be!",
+	  "outerColor": [0, 0, 0],
+	  "innerColor": [172, 30, 185],
+	  "uniques": [],
+	  "cities": ["Nicosia"]
+	},
+	{
+	  "name": "Reykjavik",
+	  "adjective": ["Reykjavik"],
+	  "cityStateType": "Cultured",
+
+	  "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+	  "attacked": "Very well, we will kick you back to the ancient era!",
+	  "defeated": "This isn't how it is supposed to be!",
+	  "outerColor": [0, 0, 0],
+	  "innerColor": [128,255,128],
+	  "uniques": [],
+	  "cities": ["Reykjavik"]
+	},
+	{
+	  "name": "Teheran",
+	  "adjective": ["Teheranian"],
+	  "cityStateType": "Cultured",
+
+	  "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+	  "attacked": "Very well, we will kick you back to the ancient era!",
+	  "defeated": "This isn't how it is supposed to be!",
+	  "outerColor": [0, 0, 0],
+	  "innerColor": [172, 30, 185],
+	  "uniques": [],
+	  "cities": ["Teheran"]
+	},
+	{
+	  "name": "Thimphu",
+	  "adjective": ["Thimphuan"],
+	  "cityStateType": "Cultured",
+
+	  "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+	  "attacked": "Very well, we will kick you back to the ancient era!",
+	  "defeated": "This isn't how it is supposed to be!",
+	  "outerColor": [0, 0, 0],
+	  "innerColor": [54, 102, 255],
+	  "uniques": [],
+	  "cities": ["Thimphu"]
+	},
+	{
+	  "name": "Bangkok",
+	  "adjective": ["Bangkokian"],
+	  "cityStateType": "Maritime",
+
+	  "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+	  "attacked": "Very well, we will kick you back to the ancient era!",
+	  "defeated": "This isn't how it is supposed to be!",
+	  "outerColor": [0, 0, 0],
+	  "innerColor": [179, 154, 255],
+	  "uniques": [],
+	  "cities": ["Bangkok"]
+	},
+	{
+	  "name": "Cape Town",
+	  "adjective": ["Cape"],
+	  "cityStateType": "Maritime",
+
+	  "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+	  "attacked": "Very well, we will kick you back to the ancient era!",
+	  "defeated": "This isn't how it is supposed to be!",
+	  "outerColor": [0, 0, 0],
+	  "innerColor": [230, 166, 82],
+	  "uniques": [],
+	  "cities": ["Cape Town"]
+	},
+	{
+		"name": "Islamabad",
+		"adjective": ["Islamabadi"],
 		"cityStateType": "Maritime",
-		"startBias": ["Coast"],
 
-		"declaringWar": "I will enjoy hearing your last breath as you witness the destruction of your realm!",
-		"attacked": "Why do we fight? Because the Buddha demands it. Now, witness the power of the Thai people!",
-		"defeated": "What treachery has struck us? No, what evil?",
+    "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+	  "attacked": "Very well, we will kick you back to the ancient era!",
+	  "defeated": "This isn't how it is supposed to be!",
 		"outerColor": [0, 0, 0],
-		"innerColor": [255,69,0],
-		"uniques": ["Gain a free [~CS] [in all cities]"],
-		"cities": ["Bangkok"]
-	},
-	{
-		"name": "Estonia",
-		"adjective": ["Estonian"],
-		"cityStateType": "Mercantile",
-		"startBias": ["Coast"],
-
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "How barbaric. Those who live by the sword shall perish by the sword.",
-		"outerColor": [0, 0, 0],
-		"innerColor": [45,255,86],
-		"uniques": ["Gain a free [~CS] [in all cities]"],
-		"cities": ["Tallinn"]
-	},
-	{
-		"name": "Luxembourg",
-		"adjective": ["Luxembourgish"],
-		"cityStateType": "Cultured",
-		
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "I guess you weren't here for the sprouts after all...",
-		"outerColor": [0, 0, 0],
-		"innerColor": [153,255,51],
-		"uniques": ["Gain a free [~CS] [in all cities]"],
-		"cities": ["Luxembourg"]
-	},
-	{
-		"name": "Kabul",
-		"adjective": ["Kabul"],
-		"cityStateType": "Cultured",
-		
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "Unacceptable!",
-		"outerColor": [0, 0, 0],
-		"innerColor": [168,38,102],
-		"uniques": ["Gain a free [~CS] [in all cities]"],
-		"cities": ["Kabul"]
-	},
-	{
-		"name": "Himyar",
-		"adjective": ["Himyarite"],
-		"cityStateType": "Militaristic",
-
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "What a fine battle! the Himyarite Kingdom is willing to serve you!",
-		"outerColor": [0, 0, 0],
-		"innerColor": [250,128,114],
-		"uniques": ["Gain a free [~CS] [in all cities]"],
-		"cities": ["Zafar"]
-	},
-	{
-		"name": "Taiwan",
-		"adjective": ["Taiwanese"],
-		"cityStateType": "Militaristic",
-
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "How could we fall to the likes of you?!",
-		"outerColor": [0, 0, 0],
-		"innerColor": [152,0,241],
-		"uniques": ["Gain a free [~CS] [in all cities]"],
-		"cities": ["Taipei"]
-	},
-	{
-		"name": "Cuba",
-		"adjective": ["Cuban"],
-		"cityStateType": "Militaristic",
-
-		"declaringWar": "You shall stain this land no longer with your vileness! To arms, my countrymen - we ride to war!",
-		"attacked": "Traitorous man! The Cuban peoples will not stand for such wanton abuse and slander - I shall have your head!",
-		"defeated": "Vile ruler, know that you 'won' this war in name only!",
-		"outerColor": [0, 0, 0],
-		"innerColor": [0,102,102],
-		"uniques": ["Gain a free [~CS] [in all cities]"],
-		"cities": ["Havana"]
-	},
-	{
-		"name": "Singapore",
-		"adjective": ["Singaporean"],
-		"cityStateType": "Mercantile",
-
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "Perhaps, in another world, we could have been friends...",
-		"outerColor": [0, 0, 0],
-		"innerColor": [255,255,0],
-		"uniques": ["Gain a free [~CS] [in all cities]"],
-		"cities": ["Singapore"]
-	},
-	{
-		"name": "Zanzibar",
-		"adjective": ["Zanzibar"],
-		"cityStateType": "Mercantile",
-
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "May the Heavens forgive you for inflicting this humiliation to our people.",
-		"outerColor": [0, 0, 0],
-		"innerColor": [255,153,255],
-		"uniques": ["Gain a free [~CS] [in all cities]"],
-		"cities": ["Zanzibar"]
-	},
-	{
-		"name": "Cambodia",
-		"adjective": ["Cambodian"],
-		"cityStateType": "Maritime",
-
-		"declaringWar": "After thorough deliberation, Cambodia finds itself at a crossroads. Prepare yourself, for war is upon us.",
-		"attacked": "We will mobilize every means of resistance to stop this transgression against our nation!",
-		"defeated": "The principles for which we have fought will survive longer than any nation you could ever build.",
-		"outerColor": [0, 0, 0],
-		"innerColor": [255,204,204],
-		"uniques": ["Gain a free [~CS] [in all cities]"],
-		"cities": ["Phnom Penh"]
-	},
-	{
-		"name": "Cape Town",
-		"adjective": ["Cape Town"],
-		"cityStateType": "Maritime",
-
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "I have failed. May you, at least, know compassion towards our people.",
-		"outerColor": [0, 0, 0],
-		"innerColor": [255,153,153],
-		"uniques": ["Gain a free [~CS] [in all cities]"],
-		"cities": ["Cape Town"]
-	},
-	{
-		"name": "Nepal",
-		"adjective": ["Nepalese"],
-		"cityStateType": "Mercantile",
-
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We... defeated? No... we had so much work to do!",
-		"outerColor": [0, 0, 0],
-		"innerColor": [151,125,0],
-		"uniques": ["Gain a free [~CS] [in all cities]"],
-		"cities": ["Kathmandu"]
-	},
-	{
-		"name": "Laos",
-		"adjective": ["Laotian"],
-		"cityStateType": "Cultured",
-
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "So this is how it feels to die...",
-		"outerColor": [0, 0, 0],
-		"innerColor": [51,51,255],
-		"uniques": ["Gain a free [~CS] [in all cities]"],
-		"cities": ["Vientiane"]
-	},
-	{
-		"name": "Pakistan",
-		"adjective": ["Pakistani"],
-		"cityStateType": "Cultured",
-
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We were too weak to protect ourselves...",
-		"outerColor": [0, 0, 0],
-		"innerColor": [51,102,0],
-		"uniques": ["Gain a free [~CS] [in all cities]"],
+		"innerColor": [54,102,255],
+		"uniques": [],
 		"cities": ["Islamabad"]
 	},
 	{
-		"name": "Hong Kong",
-		"adjective": ["Hong Kong"],
-		"cityStateType": "Maritime",
+	  "name": "Kampala",
+	  "adjective": ["Kampalan"],
+	  "cityStateType": "Maritime",
 
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "The day of judgement has come to us. But rest assured, the same will go for you!",
-		"outerColor": [0, 0, 0],
-		"innerColor": [255,178,102],
-		"uniques": ["Gain a free [~CS] [in all cities]"],
-		"cities": ["Hong Kong"]
+	  "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+	  "attacked": "Very well, we will kick you back to the ancient era!",
+	  "defeated": "This isn't how it is supposed to be!",
+	  "outerColor": [0, 0, 0],
+	  "innerColor": [172, 30, 185],
+	  "uniques": [],
+	  "cities": ["Kampala"]
 	},
 	{
-		"name": "Kuala Lumpur",
-		"adjective": ["KLite"],
-		"cityStateType": "Cultured",
+	  "name": "Lima",
+	  "adjective": ["Liman"],
+	  "cityStateType": "Maritime",
 
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "Today, the Malay people obey you, but do not think this is over...",
-		"outerColor": [0, 0, 0],
-		"innerColor": [0,102,102],
-		"uniques": ["Gain a free [~CS] [in all cities]"],
-		"cities": ["Kuala Lumpur"]
+	  "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+	  "attacked": "Very well, we will kick you back to the ancient era!",
+	  "defeated": "This isn't how it is supposed to be!",
+	  "outerColor": [0, 0, 0],
+	  "innerColor": [196, 87, 255],
+	  "uniques": [],
+	  "cities": ["Lima"]
 	},
 	{
-		"name": "Czechia",
-		"adjective": ["Czech"],
-		"cityStateType": "Maritime",
+	  "name": "Lusaka",
+	  "adjective": ["Lusakan"],
+	  "cityStateType": "Maritime",
 
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "Ah, Gods! Why have you forsaken us?",
-		"outerColor": [0, 0, 0],
-		"innerColor": [96,96,96],
-		"uniques": ["Gain a free [~CS] [in all cities]"],
-		"cities": ["Prague"]
+	  "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+	  "attacked": "Very well, we will kick you back to the ancient era!",
+	  "defeated": "This isn't how it is supposed to be!",
+	  "outerColor": [0, 0, 0],
+	  "innerColor": [125, 224, 0],
+	  "uniques": [],
+	  "cities": ["Lusaka"]
 	},
 	{
-		"name": "East Turkestan",
-		"translatedName": "",
-		"adjective": ["Uyghur"],
-		"cityStateType": "Religious",
+	  "name": "Mogadishu",
+	  "adjective": ["Mogadishu"],
+	  "cityStateType": "Maritime",
 
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "Perhaps now we will find peace in death...",
-		"outerColor": [0, 0, 0],
-		"innerColor": [204,102,0],
-		"uniques": ["Gain a free [~CS] [in all cities]"],
-		"cities": ["Urumqi"]
+	  "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+	  "attacked": "Very well, we will kick you back to the ancient era!",
+	  "defeated": "This isn't how it is supposed to be!",
+	  "outerColor": [0, 0, 0],
+	  "innerColor": [128, 179, 255],
+	  "uniques": [],
+	  "cities": ["Mogadishu"]
 	},
 	{
-		"name": "Peru",
-		"translatedName": "Lima",
-		"adjective": ["Peruvian"],
-		"cityStateType": "Maritime",
+	  "name": "Ormus",
+	  "adjective": ["Ormus"],
+	  "cityStateType": "Maritime",
 
-		"declaringWar": "In responding to the unstinting malignancy that has heretofore defined your relationship with Peru, we can have no recourse but war!",
-		"attacked": "As we can reach no peaceful resolution with you, Peru must turn to war.",
-		"defeated": "I regret not defending my country to the last, although it was not of use.",
-		"outerColor": [0, 0, 0],
-		"innerColor": [0,255,128],
-		"uniques": ["Gain a free [~CS] [in all cities]"],
-		"cities": ["Lima"]
+	  "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+	  "attacked": "Very well, we will kick you back to the ancient era!",
+	  "defeated": "This isn't how it is supposed to be!",
+	  "outerColor": [0, 0, 0],
+	  "innerColor": [179, 179, 179],
+	  "uniques": [],
+	  "cities": ["Ormus"]
 	},
 	{
-		"name": "M'Banza-Kongo",
-		"adjective": ["M'Banza-Kongo"],
-		"cityStateType": "Militaristic",
+	  "name": "Panama City",
+	  "adjective": ["Panamanian"],
+	  "cityStateType": "Maritime",
 
-		"declaringWar": "Do you really think you can walk over us so easily? I will not let it happen. Not to Kongo - not to my people!",
-		"attacked": "We are no strangers to war. You have strayed from the right path, and now we will correct it.",
-		"defeated": "You are nothing but a glorified barbarian. Cruel, and ruthless.",
-		"outerColor": [0, 0, 0],
-		"innerColor": [255,128,0],
-		"uniques": ["Gain a free [~CS] [in all cities]"],
-		"cities": ["M'Banza-Kongo"]
+	  "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+	  "attacked": "Very well, we will kick you back to the ancient era!",
+	  "defeated": "This isn't how it is supposed to be!",
+	  "outerColor": [0, 0, 0],
+	  "innerColor": [255, 255, 128],
+	  "uniques": [],
+	  "cities": ["Panama City"]
 	},
 	{
-		"name": "Somalia",
-		"adjective": ["Somalian"],
-		"cityStateType": "Maritime",
+	  "name": "Paramaribo",
+	  "adjective": ["Paramaribos"],
+	  "cityStateType": "Maritime",
 
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "Congratulations, conquerer. This nation serves you now.",
-		"outerColor": [0, 0, 0],
-		"innerColor": [224,224,224],
-		"uniques": ["Gain a free [~CS] [in all cities]"],
-		"cities": ["Mogadishu"]
+	  "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+	  "attacked": "Very well, we will kick you back to the ancient era!",
+	  "defeated": "This isn't how it is supposed to be!",
+	  "outerColor": [0, 0, 0],
+	  "innerColor": [255, 217, 143],
+	  "uniques": [],
+	  "cities": ["Paramaribo"]
 	},
 	{
-		"name": "Slovakia",
-		"adjective": ["Slovakia"],
-		"cityStateType": "Religious",
+	  "name": "Phnom Penh",
+	  "adjective": ["Phnom Penher"],
+	  "cityStateType": "Maritime",
 
-		"declaringWar": "I didn't want to do this. We declare war.",
-		"attacked": "I will fear no evil. For god is with me!",
-		"defeated": "Why have you forsaken us my lord?",
-		"outerColor": [0, 0, 0],
-		"innerColor": [255,255,255],
-				"uniques": ["Gain a free [~CS] [in all cities]"],
-		"cities": ["Bratislava"]
+	  "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+	  "attacked": "Very well, we will kick you back to the ancient era!",
+	  "defeated": "This isn't how it is supposed to be!",
+	  "outerColor": [0, 0, 0],
+	  "innerColor": [25,75,235],
+	  "uniques": [],
+	  "cities": ["Phnom Penh"]
 	},
 	{
-		"name": "Guyana",
-		"adjective": ["Guyanan"],
-		"cityStateType": "Maritime",
+	  "name": "Port-au-Prince",
+	  "adjective": ["Haitian"],
+	  "cityStateType": "Maritime",
 
-		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
-		"attacked": "Very well, we will kick you back to the ancient era!",
-		"defeated": "Great job, the Guyanan peoples serve you now.",
-		"outerColor": [0, 0, 0],
-		"innerColor": [203, 253, 232],
-				"uniques": ["Gain a free [~CS] [in all cities]"],
-		"cities": ["Georgetown"]
+	  "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+	  "attacked": "Very well, we will kick you back to the ancient era!",
+	  "defeated": "This isn't how it is supposed to be!",
+	  "outerColor": [0, 0, 0],
+	  "innerColor": [128, 255, 128],
+	  "uniques": [],
+	  "cities": ["Port-au-Prince"]
 	},
+	{
+	  "name": "Riga",
+	  "adjective": ["Rigan"],
+	  "cityStateType": "Maritime",
+
+	  "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+	  "attacked": "Very well, we will kick you back to the ancient era!",
+	  "defeated": "This isn't how it is supposed to be!",
+	  "outerColor": [0, 0, 0],
+	  "innerColor": [18,204,245],
+	  "uniques": [],
+	  "cities": ["Riga"]
+	},
+	{
+	  "name": "Santo Domingo",
+	  "adjective": ["Dominican"],
+	  "cityStateType": "Maritime",
+
+	  "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+	  "attacked": "Very well, we will kick you back to the ancient era!",
+	  "defeated": "This isn't how it is supposed to be!",
+	  "outerColor": [0, 0, 0],
+	  "innerColor": [0,163,181],
+	  "uniques": [],
+	  "cities": ["Santo Domingo"]
+	},
+	{
+	  "name": "Cahokia",
+	  "adjective": ["Cahokia"],
+	  "cityStateType": "Mercantile",
+
+	  "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+	  "attacked": "Very well, we will kick you back to the ancient era!",
+	  "defeated": "This isn't how it is supposed to be!",
+	  "outerColor": [0, 0, 0],
+	  "innerColor": [230, 230, 230],
+	  "uniques": [],
+	  "cities": ["Cahokia"]
+	},
+	{
+	  "name": "Colombo",
+	  "adjective": ["Colombo"],
+	  "cityStateType": "Mercantile",
+
+	  "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+	  "attacked": "Very well, we will kick you back to the ancient era!",
+	  "defeated": "This isn't how it is supposed to be!",
+	  "outerColor": [0, 0, 0],
+	  "innerColor": [179, 154, 255],
+	  "uniques": [],
+	  "cities": ["Colombo"]
+	},
+	{
+	  "name": "Dubai",
+	  "adjective": ["Emirati"],
+	  "cityStateType": "Mercantile",
+
+	  "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+	  "attacked": "Very well, we will kick you back to the ancient era!",
+	  "defeated": "This isn't how it is supposed to be!",
+	  "outerColor": [0, 0, 0],
+	  "innerColor": [25, 75, 235],
+	  "uniques": [],
+	  "cities": ["Dubai"]
+	},
+	{
+	  "name": "Gaborone",
+	  "adjective": ["Gaboronian"],
+	  "cityStateType": "Mercantile",
+
+	  "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+	  "attacked": "Very well, we will kick you back to the ancient era!",
+	  "defeated": "This isn't how it is supposed to be!",
+	  "outerColor": [0, 0, 0],
+	  "innerColor": [255, 217, 143],
+	  "uniques": [],
+	  "cities": ["Gaborone"]
+	},
+	{
+	  "name": "Hong Kong",
+	  "adjective": ["Hong Kong"],
+	  "cityStateType": "Mercantile",
+
+	  "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+	  "attacked": "Very well, we will kick you back to the ancient era!",
+	  "defeated": "This isn't how it is supposed to be!",
+	  "outerColor": [0, 0, 0],
+	  "innerColor": [54, 102, 255],
+	  "uniques": [],
+	  "cities": ["Hong Kong"]
+	},
+	{
+	  "name": "Lagos",
+	  "adjective": ["Lagosian"],
+	  "cityStateType": "Mercantile",
+
+	  "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+	  "attacked": "Very well, we will kick you back to the ancient era!",
+	  "defeated": "This isn't how it is supposed to be!",
+	  "outerColor": [0, 0, 0],
+	  "innerColor": [128, 255, 128],
+	  "uniques": [],
+	  "cities": ["Lagos"]
+	},
+	{
+	  "name": "Malacca",
+	  "adjective": ["Malacca"],
+	  "cityStateType": "Mercantile",
+
+	  "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+	  "attacked": "Very well, we will kick you back to the ancient era!",
+	  "defeated": "This isn't how it is supposed to be!",
+	  "outerColor": [0, 0, 0],
+	  "innerColor": [18, 204, 245],
+	  "uniques": [],
+	  "cities": ["Malacca"]
+	},
+	{
+	  "name": "Maseru",
+	  "adjective": ["Maseru"],
+	  "cityStateType": "Mercantile",
+
+	  "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+	  "attacked": "Very well, we will kick you back to the ancient era!",
+	  "defeated": "This isn't how it is supposed to be!",
+	  "outerColor": [0, 0, 0],
+	  "innerColor": [128, 179, 255],
+	  "uniques": [],
+	  "cities": ["Maseru"]
+	},
+	{
+	  "name": "Mohenjo-Daro",
+	  "adjective": ["Mohenjo"],
+	  "cityStateType": "Mercantile",
+
+	  "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+	  "attacked": "Very well, we will kick you back to the ancient era!",
+	  "defeated": "This isn't how it is supposed to be!",
+	  "outerColor": [0, 0, 0],
+	  "innerColor": [125, 224, 0],
+	  "uniques": [],
+	  "cities": ["Mohenjo-Daro"]
+	},
+	{
+	  "name": "Singapore",
+	  "adjective": ["Singaporean"],
+	  "cityStateType": "Mercantile",
+
+	  "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+	  "attacked": "Very well, we will kick you back to the ancient era!",
+	  "defeated": "This isn't how it is supposed to be!",
+	  "outerColor": [0, 0, 0],
+	  "innerColor": [255, 255, 128],
+	  "uniques": [],
+	  "cities": ["Singapore"]
+	},
+	{
+	  "name": "Tallinn",
+	  "adjective": ["Tallinner"],
+	  "cityStateType": "Mercantile",
+
+	  "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+	  "attacked": "Very well, we will kick you back to the ancient era!",
+	  "defeated": "This isn't how it is supposed to be!",
+	  "outerColor": [0, 0, 0],
+	  "innerColor": [0, 163, 181],
+	  "uniques": [],
+	  "cities": ["Tallinn"]
+	},
+	{
+	  "name": "Trieste",
+	  "adjective": ["Triestian"],
+	  "cityStateType": "Mercantile",
+
+	  "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+	  "attacked": "Very well, we will kick you back to the ancient era!",
+	  "defeated": "This isn't how it is supposed to be!",
+	  "outerColor": [0, 0, 0],
+	  "innerColor": [230, 166, 82],
+	  "uniques": [],
+	  "cities": ["Trieste"]
+	},
+	{
+	  "name": "Vaduz",
+	  "adjective": ["Liechtensteiner"],
+	  "cityStateType": "Mercantile",
+
+	  "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+	  "attacked": "Very well, we will kick you back to the ancient era!",
+	  "defeated": "This isn't how it is supposed to be!",
+	  "outerColor": [0, 0, 0],
+	  "innerColor": [196, 87, 255],
+	  "uniques": [],
+	  "cities": ["Vaduz"]
+	},
+	{
+	  "name": "Zurich",
+	  "adjective": ["Zurich"],
+	  "cityStateType": "Mercantile",
+
+	  "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+	  "attacked": "Very well, we will kick you back to the ancient era!",
+	  "defeated": "This isn't how it is supposed to be!",
+	  "outerColor": [0, 0, 0],
+	  "innerColor": [179, 179, 179],
+	  "uniques": [],
+	  "cities": ["Zurich"]
+	},
+	{
+	  "name": "Andorra",
+	  "adjective": ["Andorran"],
+	  "cityStateType": "Militaristic",
+
+	  "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+	  "attacked": "Very well, we will kick you back to the ancient era!",
+	  "defeated": "This isn't how it is supposed to be!",
+	  "outerColor": [0, 0, 0],
+	  "innerColor": [230, 166, 82],
+	  "uniques": [],
+	  "cities": ["Andorra"]
+	},
+	{
+	  "name": "Colchis",
+	  "adjective": ["Colchis"],
+	  "cityStateType": "Militaristic",
+
+	  "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+	  "attacked": "Very well, we will kick you back to the ancient era!",
+	  "defeated": "This isn't how it is supposed to be!",
+	  "outerColor": [0, 0, 0],
+	  "innerColor": [172, 30, 185],
+	  "uniques": [],
+	  "cities": ["Colchis"]
+	},
+	{
+	  "name": "Cyrene",
+	  "adjective": ["Cyreni"],
+	  "cityStateType": "Militaristic",
+
+	  "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+	  "attacked": "Very well, we will kick you back to the ancient era!",
+	  "defeated": "This isn't how it is supposed to be!",
+	  "outerColor": [0, 0, 0],
+	  "innerColor": [18, 204, 245],
+	  "uniques": [],
+	  "cities": ["Cyrene"]
+	},
+	{
+	  "name": "Harappa",
+	  "adjective": ["Harappan"],
+	  "cityStateType": "Militaristic",
+
+	  "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+	  "attacked": "Very well, we will kick you back to the ancient era!",
+	  "defeated": "This isn't how it is supposed to be!",
+	  "outerColor": [0, 0, 0],
+	  "innerColor": [179, 154, 255],
+	  "uniques": [],
+	  "cities": ["Harappa"]
+	},
+	{
+	  "name": "Havana",
+	  "adjective": ["Habanero"],
+	  "cityStateType": "Militaristic",
+
+	  "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+	  "attacked": "Very well, we will kick you back to the ancient era!",
+	  "defeated": "This isn't how it is supposed to be!",
+	  "outerColor": [0, 0, 0],
+	  "innerColor": [128, 255, 128],
+	  "uniques": [],
+	  "cities": ["Havana"]
+	},
+	{
+	  "name": "Tirana",
+	  "adjective": ["Tirana"],
+	  "cityStateType": "Militaristic",
+
+	  "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+	  "attacked": "Very well, we will kick you back to the ancient era!",
+	  "defeated": "This isn't how it is supposed to be!",
+	  "outerColor": [0, 0, 0],
+	  "innerColor": [125, 224, 0],
+	  "uniques": [],
+	  "cities": ["Tirana"]
+	},
+	{
+	  "name": "Troy",
+	  "adjective": ["Trojan"],
+	  "cityStateType": "Militaristic",
+
+	  "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+	  "attacked": "Very well, we will kick you back to the ancient era!",
+	  "defeated": "This isn't how it is supposed to be!",
+	  "outerColor": [0, 0, 0],
+	  "innerColor": [179, 179, 179],
+	  "uniques": [],
+	  "cities": ["Troy"]
+	},
+	{
+	  "name": "Valletta",
+	  "adjective": ["Valletta"],
+	  "cityStateType": "Militaristic",
+
+	  "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+	  "attacked": "Very well, we will kick you back to the ancient era!",
+	  "defeated": "This isn't how it is supposed to be!",
+	  "outerColor": [0, 0, 0],
+	  "innerColor": [255, 255, 43],
+	  "uniques": [],
+	  "cities": ["Valletta"]
+	},
+	{
+	  "name": "Geneva",
+	  "adjective": ["Geneva"],
+	  "cityStateType": "Religious",
+
+	  "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+	  "attacked": "Very well, we will kick you back to the ancient era!",
+	  "defeated": "This isn't how it is supposed to be!",
+	  "outerColor": [0, 0, 0],
+	  "innerColor": [25, 75, 235],
+	  "uniques": [],
+	  "cities": ["Geneva"]
+	},
+	{
+	  "name": "Ife",
+	  "adjective": ["Ife"],
+	  "cityStateType": "Religious",
+
+	  "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+	  "attacked": "Very well, we will kick you back to the ancient era!",
+	  "defeated": "This isn't how it is supposed to be!",
+	  "outerColor": [0, 0, 0],
+	  "innerColor": [179, 179, 179],
+	  "uniques": [],
+	  "cities": ["Ife"]
+	},
+	{
+	  "name": "Kathmandu",
+	  "adjective": ["Kathmandu"],
+	  "cityStateType": "Religious",
+
+	  "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+	  "attacked": "Very well, we will kick you back to the ancient era!",
+	  "defeated": "This isn't how it is supposed to be!",
+	  "outerColor": [0, 0, 0],
+	  "innerColor": [196, 87, 255],
+	  "uniques": [],
+	  "cities": ["Kathmandu"]
+	},
+	{
+	  "name": "La Venta",
+	  "adjective": ["La Venta"],
+	  "cityStateType": "Religious",
+
+	  "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+	  "attacked": "Very well, we will kick you back to the ancient era!",
+	  "defeated": "This isn't how it is supposed to be!",
+	  "outerColor": [0, 0, 0],
+	  "innerColor": [18, 204, 245],
+	  "uniques": [],
+	  "cities": ["La Venta"]
+	},
+	{
+	  "name": "Qufu",
+	  "adjective": ["Qufu"],
+	  "cityStateType": "Religious",
+
+	  "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+	  "attacked": "Very well, we will kick you back to the ancient era!",
+	  "defeated": "This isn't how it is supposed to be!",
+	  "outerColor": [0, 0, 0],
+	  "innerColor": [255, 255, 128],
+	  "uniques": [],
+	  "cities": ["Qufu"]
+	},
+	{
+	  "name": "Freetown",
+	  "adjective": ["Freetown"],
+	  "cityStateType": "Religious",
+
+	  "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+	  "attacked": "Very well, we will kick you back to the ancient era!",
+	  "defeated": "This isn't how it is supposed to be!",
+	  "outerColor": [0, 0, 0],
+	  "innerColor": [128, 255, 128],
+	  "uniques": [],
+	  "cities": ["Freetown"]
+	},
+	{
+	  "name": "Taipei",
+	  "adjective": ["Taipei"],
+	  "cityStateType": "Religious",
+
+	  "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+	  "attacked": "Very well, we will kick you back to the ancient era!",
+	  "defeated": "This isn't how it is supposed to be!",
+	  "outerColor": [0, 0, 0],
+	  "innerColor": [230, 230, 230],
+	  "uniques": [],
+	  "cities": ["Taipei"]
+	},
+	{
+	  "name": "Wittenberg",
+	  "adjective": ["Wittenberg"],
+	  "cityStateType": "Religious",
+
+	  "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+	  "attacked": "Very well, we will kick you back to the ancient era!",
+	  "defeated": "This isn't how it is supposed to be!",
+	  "outerColor": [0, 0, 0],
+	  "innerColor": [179, 154, 255],
+	  "uniques": [],
+	  "cities": ["Wittenberg"]
+	},	
+
 	
-	{
-		"name": "Olmecs",
-		"adjective": ["Olmec"],
-		"cityStateType": "Religious",
-
-		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
-		"attacked": "Very well, we will kick you back to the ancient era!",
-		"defeated": "Please spare our people.",
-		"outerColor": [0, 0, 0],
-		"innerColor": [95,202,232],
-				"uniques": ["Gain a free [~CS] [in all cities]"],
-		"cities": ["La Venta"]
-	},
-		{
-		"name": "Ife",
-		"adjective": ["Nigerian"],
-		"cityStateType": "Religious",
-
-		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
-		"attacked": "Very well, we will kick you back to the ancient era!",
-		"defeated": "This isn't how it is supposed to be!",
-		"outerColor": [0, 0, 0],
-		"innerColor": [184,184,184],
-				"uniques": ["Gain a free [~CS] [in all cities]"],
-		"cities": ["Ife"]
-	},
-			{
-		"name": "Wittenberg",
-		"adjective": ["Wittenbergian"],
-		"cityStateType": "Religious",
-
-		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
-		"attacked": "Very well, we will kick you back to the ancient era!",
-		"defeated": "This isn't how it is supposed to be!",
-		"outerColor": [0, 0, 0],
-		"innerColor": [156,206,214],
-				"uniques": ["Gain a free [~CS] [in all cities]"],
-		"cities": ["Wittenberg"]
-	},
-			{
-		"name": "Geneva",
-		"adjective": ["Swiss"],
-		"cityStateType": "Religious",
-
-		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
-		"attacked": "Very well, we will kick you back to the ancient era!",
-		"defeated": "This isn't how it is supposed to be!",
-		"outerColor": [0, 0, 0],
-		"innerColor": [27,90,192],
-				"uniques": ["Gain a free [~CS] [in all cities]"],
-		"cities": ["Geneva"]
-	},
-
 	//Barbarian
 	{
 		"name": "Barbarians",

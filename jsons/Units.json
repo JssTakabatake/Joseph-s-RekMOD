@@ -1267,7 +1267,22 @@
 		"requiredTech": "Steel",
 		"promotions": ["Amphibious"],
 		"upgradesTo": "Musketman",
-		"obsoleteTech": "Rifling",
+		"obsoleteTech": "Gunpowder",
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Gallowglass",
+		"uniqueTo": "Scotland",
+		"replaces": "Longswordsman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 24,
+		"cost": 100,
+		"requiredResource": "Iron",
+		"requiredTech": "Steel",
+		"promotions": ["Volley","Altitude Training"],
+		"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Musketman",
 		"attackSound": "metalhit"
 	},
 
@@ -1689,21 +1704,6 @@
 		"cost": 225,
 		"promotions": ["Blitz","Quick Study"],
 		"requiredTech": "Military Science",
-		"obsoleteTech": "Replaceable Parts",
-		"upgradesTo": "Great War Infantry",
-		"attackSound": "shot"
-	},
-	{
-		"name": "Gallowglass",
-		"uniqueTo": "Scotland",
-		"replaces": "Rifleman",
-		"unitType": "Gunpowder",
-		"movement": 2,
-		"strength": 32,
-		"cost": 180,
-		"requiredResource": "Iron",
-		"requiredTech": "Metallurgy",
-		"promotions": ["Volley","Altitude Training"],
 		"obsoleteTech": "Replaceable Parts",
 		"upgradesTo": "Great War Infantry",
 		"attackSound": "shot"

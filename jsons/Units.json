@@ -1281,7 +1281,7 @@
 		"requiredResource": "Iron",
 		"requiredTech": "Steel",
 		"promotions": ["Volley","Altitude Training"],
-		"obsoleteTech": "Replaceable Parts",
+		"obsoleteTech": "Gunpowder",
 		"upgradesTo": "Musketman",
 		"attackSound": "metalhit"
 	},

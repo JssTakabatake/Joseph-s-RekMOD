@@ -2622,14 +2622,14 @@ TileSets/5Hex/Tiles/Maize+Farm
   index: -1
 TileSets/5Hex/Tiles/Motte and Bailey
   rotate: false
-  xy: 1242, 270
+  xy: 1242, 234
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Motte and Bailey
   rotate: false
-  xy: 1242, 270
+  xy: 1242, 234
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
@@ -2720,14 +2720,14 @@ TileSets/FantasyHex/Tiles/Tibetan Monastery
   index: -1
 TileSets/5Hex/Tiles/Tipi
   rotate: false
-  xy: 970, 932
+  xy: 1092, 10
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Tipi
   rotate: false
-  xy: 970, 932
+  xy: 1092, 10
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
@@ -3294,14 +3294,14 @@ TileSets/5Hex/Units/Ngao Mbeba-3
   index: -1
 TileSets/5Hex/Units/Pestininkas
   rotate: false
-  xy: 1853, 786
+  xy: 1850, 708
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Pestininkas
   rotate: false
-  xy: 1853, 786
+  xy: 1850, 708
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -3586,67 +3586,32 @@ TileSets/5Hex/Units/Ulan-3
   orig: 80, 70
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Galley
+TileSets/AbsoluteUnits/Units/Galley
   rotate: false
   xy: 1980, 1772
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Galley-1
+TileSets/AbsoluteUnits/Units/Galley-1
   rotate: false
   xy: 1980, 1708
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Galley-2
+TileSets/AbsoluteUnits/Units/Galley-2
   rotate: false
   xy: 1980, 1644
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Galley-Barbarians
+TileSets/AbsoluteUnits/Units/Galley-Barbarians
   rotate: false
   xy: 1357, 961
   size: 64, 56
   orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Great Musician
-  rotate: false
-  xy: 1192, 1315
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Great Writer
-  rotate: false
-  xy: 1192, 1315
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Pittore
-  rotate: false
-  xy: 1192, 1315
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Pittore Musician
-  rotate: false
-  xy: 1192, 1315
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Pittore Writer
-  rotate: false
-  xy: 1192, 1315
-  size: 95, 81
-  orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Great Musician
@@ -3680,41 +3645,6 @@ TileSets/AbsoluteUnits/Units/Pittore Musician
 TileSets/AbsoluteUnits/Units/Pittore Writer
   rotate: false
   xy: 1192, 1315
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Great Musician-1
-  rotate: false
-  xy: 1300, 1423
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Great Writer-1
-  rotate: false
-  xy: 1300, 1423
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Pittore Musician-1
-  rotate: false
-  xy: 1300, 1423
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Pittore Writer-1
-  rotate: false
-  xy: 1300, 1423
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Pittore-1
-  rotate: false
-  xy: 1300, 1423
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
@@ -3754,41 +3684,6 @@ TileSets/AbsoluteUnits/Units/Pittore-1
   orig: 95, 81
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Great Musician-2
-  rotate: false
-  xy: 436, 451
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Great Writer-2
-  rotate: false
-  xy: 436, 451
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Pittore Musician-2
-  rotate: false
-  xy: 436, 451
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Pittore Writer-2
-  rotate: false
-  xy: 436, 451
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Pittore-2
-  rotate: false
-  xy: 436, 451
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
 TileSets/AbsoluteUnits/Units/Great Musician-2
   rotate: false
   xy: 436, 451
@@ -3820,41 +3715,6 @@ TileSets/AbsoluteUnits/Units/Pittore Writer-2
 TileSets/AbsoluteUnits/Units/Pittore-2
   rotate: false
   xy: 436, 451
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Great Musician-Industrial era
-  rotate: false
-  xy: 544, 559
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Great Writer-Industrial era
-  rotate: false
-  xy: 544, 559
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Pittore Musician-Industrial era
-  rotate: false
-  xy: 544, 559
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Pittore Writer-Industrial era
-  rotate: false
-  xy: 544, 559
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Pittore-Industrial era
-  rotate: false
-  xy: 544, 559
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
@@ -3894,41 +3754,6 @@ TileSets/AbsoluteUnits/Units/Pittore-Industrial era
   orig: 95, 81
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Great Musician-Industrial era-1
-  rotate: false
-  xy: 652, 667
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Great Writer-Industrial era-1
-  rotate: false
-  xy: 652, 667
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Pittore Musician-Industrial era-1
-  rotate: false
-  xy: 652, 667
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Pittore Writer-Industrial era-1
-  rotate: false
-  xy: 652, 667
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Pittore-Industrial era-1
-  rotate: false
-  xy: 652, 667
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
 TileSets/AbsoluteUnits/Units/Great Musician-Industrial era-1
   rotate: false
   xy: 652, 667
@@ -3960,41 +3785,6 @@ TileSets/AbsoluteUnits/Units/Pittore Writer-Industrial era-1
 TileSets/AbsoluteUnits/Units/Pittore-Industrial era-1
   rotate: false
   xy: 652, 667
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Great Musician-Industrial era-2
-  rotate: false
-  xy: 760, 775
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Great Writer-Industrial era-2
-  rotate: false
-  xy: 760, 775
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Pittore Musician-Industrial era-2
-  rotate: false
-  xy: 760, 775
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Pittore Writer-Industrial era-2
-  rotate: false
-  xy: 760, 775
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Pittore-Industrial era-2
-  rotate: false
-  xy: 760, 775
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
@@ -4085,7 +3875,7 @@ TileSets/FantasyHex/Tiles/City-Information era
   index: -1
 TileSets/FantasyHex/Tiles/Coconut
   rotate: false
-  xy: 1172, 736
+  xy: 1167, 696
   size: 30, 25
   orig: 30, 25
   offset: 0, 0
@@ -4141,7 +3931,7 @@ TileSets/FantasyHex/Tiles/Grassland+Jungle+Brazilwood Camp
   index: -1
 TileSets/FantasyHex/Tiles/Hardwood
   rotate: false
-  xy: 1127, 698
+  xy: 1212, 734
   size: 30, 27
   orig: 30, 27
   offset: 0, 0
@@ -4209,93 +3999,100 @@ TileSets/FantasyHex/Tiles/Maize
   orig: 32, 30
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Maize+Farm
+  rotate: false
+  xy: 1242, 346
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Tiles/Obsidian
   rotate: false
-  xy: 1813, 786
+  xy: 1810, 750
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Olives
   rotate: false
-  xy: 1810, 744
+  xy: 1810, 708
   size: 32, 34
   orig: 32, 34
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Perfume
   rotate: false
-  xy: 1810, 702
+  xy: 1850, 744
   size: 32, 34
   orig: 32, 34
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Plains+Forest+Antiquity Site
   rotate: false
-  xy: 1170, 138
+  xy: 1170, 102
   size: 32, 33
   orig: 32, 33
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Plains+Jungle+Brazilwood Camp
   rotate: false
-  xy: 1170, 99
+  xy: 1210, 123
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Rubber
   rotate: false
-  xy: 1054, 89
+  xy: 1210, 90
   size: 32, 25
   orig: 32, 25
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Sacred Grove
   rotate: false
-  xy: 1052, 53
+  xy: 1250, 89
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Sea Trade Route (Food)
   rotate: false
-  xy: 1052, 11
+  xy: 1010, 931
   size: 32, 34
   orig: 32, 34
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Sea Trade Route (Gold)
   rotate: false
-  xy: 1052, 11
+  xy: 1010, 931
   size: 32, 34
   orig: 32, 34
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Sea Trade Route (Production)
   rotate: false
-  xy: 1052, 11
+  xy: 1010, 931
   size: 32, 34
   orig: 32, 34
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Tea
   rotate: false
-  xy: 1250, 90
+  xy: 1052, 14
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Tobacco
   rotate: false
-  xy: 970, 896
+  xy: 1132, 733
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Tundra+Forest+Antiquity Site
   rotate: false
-  xy: 1010, 933
+  xy: 1172, 729
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
@@ -4336,13 +4133,6 @@ TileSets/FantasyHex/Units/Dalai Lama
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Fast Worker
-  rotate: false
-  xy: 1900, 824
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Ngangkari
   rotate: false
   xy: 1900, 824
   size: 32, 28
@@ -4414,119 +4204,126 @@ TileSets/FantasyHex/Units/Longship
   index: -1
 TileSets/FantasyHex/Units/Mamluk
   rotate: false
-  xy: 1242, 346
+  xy: 1242, 310
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Matato'a
   rotate: false
-  xy: 1242, 310
+  xy: 1242, 274
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Mpiambina
   rotate: false
-  xy: 1242, 234
+  xy: 1242, 198
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Nelayan
   rotate: false
-  xy: 1242, 198
+  xy: 1242, 162
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Ngangkari
+  rotate: false
+  xy: 1813, 786
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Ngao Mbeba
   rotate: false
-  xy: 1242, 162
+  xy: 1853, 786
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Pioneer
   rotate: false
-  xy: 1850, 749
-  size: 32, 29
-  orig: 32, 29
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Ranchero
-  rotate: false
-  xy: 1850, 749
+  xy: 1810, 671
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Pittore
   rotate: false
-  xy: 1850, 713
+  xy: 1850, 672
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Pittore Writer
   rotate: false
-  xy: 1850, 713
+  xy: 1850, 672
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Pittore Musician
   rotate: false
-  xy: 1850, 677
+  xy: 1170, 143
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Ranchero
+  rotate: false
+  xy: 1250, 125
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Saethwyr
   rotate: false
-  xy: 1094, 86
+  xy: 970, 936
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Sarissophoroi
   rotate: false
-  xy: 1092, 50
+  xy: 970, 900
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Seaxman
   rotate: false
-  xy: 1092, 14
+  xy: 1054, 86
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Ski Infantry
   rotate: false
-  xy: 1210, 126
+  xy: 1094, 86
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Sparapet
   rotate: false
-  xy: 1250, 126
+  xy: 1052, 50
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Square Sail Ship
   rotate: false
-  xy: 1210, 90
+  xy: 1092, 50
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Ulan
   rotate: false
-  xy: 1132, 733
+  xy: 1127, 697
   size: 32, 28
   orig: 32, 28
   offset: 0, 0

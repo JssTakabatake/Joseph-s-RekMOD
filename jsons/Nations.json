@@ -1047,7 +1047,7 @@
 			"[+2 Happiness] from every [National College]",
 			"[+2 Happiness] from every [Heroic Epic]",
 			"[+2 Happiness] from every [Circus Maximus]"],
-		"cities": ["Dublin","Cork","Galway","Wexford","Kilkenny","Tralee","Limerick","Castlebar","Lifford","Clonmel","Ennis","Roscommon","Cavan"]
+		"cities": ["Dublin","Cork","Galway","Belfast","Wexford","Kilkenny","Tralee","Limerick","Londonderry","Castlebar","Lifford","Clonmel","Ennis","Roscommon","Cavan"]
 	},
 	{
 		"name": "Iroquois",
@@ -1118,7 +1118,7 @@
 		"innerColor": [205, 205, 205],
 		"uniqueName": "Rinascimento",
 		"uniques": ["[+1 Culture] from every specialist [in all cities]", "Empire enters golden age <upon adopting [Tradition Complete]>" ,"Empire enters golden age <upon adopting [Liberty Complete]>", "Empire enters golden age <upon adopting [Honor Complete]>", "Empire enters golden age <upon adopting [Piety Complete]>", "Empire enters golden age <upon adopting [Aesthetics Complete]>", "Empire enters golden age <upon adopting [Patronage Complete]>", "Empire enters golden age <upon adopting [Exploration Complete]>", "Empire enters golden age <upon adopting [Commerce Complete]>", "Empire enters golden age <upon adopting [Rationalism Complete]>"],
-		"cities": ["Roma","Milan","Naples","Turin","Florence","Genoa","Bari","Venezia","Palermo","Cagliari","Catania","Brescia","Messina","Pisa","Bologna","Verona"]
+		"cities": ["Roma","Milan","Naples","Turin","Florence","Genoa","Bari","Venice","Palermo","Cagliari","Catania","Brescia","Messina","Pisa","Bologna","Verona"]
 	},
 	{
 		"name": "Japan",
@@ -1630,7 +1630,7 @@
 		"introduction": "Salutations! I am Saif bin Sultan, the sultan of Oman.",
 		"neutralHello": "Welcome, again.",
 		"hateHello": "You...",
-		"tradeRequest": "This deal is great! Should i explain it to you?",
+		"tradeRequest": "This deal is great! Should I explain it to you?",
 		"favoredReligion": "Islam",
 		"outerColor": [155,44,24],
 		"innerColor": [211,204,27],
